@@ -20,6 +20,8 @@ You can connect to the server using any TCP client. For example, you can use tel
 
 Once connected, you can send any message, and the server will respond with "Hello, Client!".
 
+You can also use http-server npm package
+
 Code Overview
 The main functionality is implemented in the tcp.rs file:
 
